@@ -1,0 +1,5 @@
+No se puede ver el archivo tp2_1_2.c en la carpeta de mi repositorio porque no me encuentro posicionado en la rama "Opcion_2" que es donde creé mi archivo y por lo tanto no puedo visualizarlo, actualmente estoy posicionado en la rama "main" donde ese archivo no existe.
+
+Ahora en la grafica de ramas se ve como luego del commit inicial se genera la rama "Opcion_2" que es donde hice el segundo commit y luego cuando agregué el archivo respuestas a la rama "main" que continua sin ser afectada por la otra rama.
+
+Luego de combinar ambos repositorios puedo ver en la grafica a la rama "Opcion_2" juntarse con el final de la rama "main" y ahora es visible en carpeta el archivo tp2_1_2.c.
