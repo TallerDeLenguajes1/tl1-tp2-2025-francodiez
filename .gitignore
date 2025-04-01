@@ -1,0 +1,4 @@
+# Voy a excluir los archivos .exe, .obj y .tds
+*.exe
+*.obj
+*.tds
